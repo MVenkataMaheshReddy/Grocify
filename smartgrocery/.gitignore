@@ -1,0 +1,4 @@
+target/
+.mvn/
+.help
+application.properties (Optional: See Step 2)
